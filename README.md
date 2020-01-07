@@ -1,2 +1,3 @@
 # hello-world
-Intro repository
+
+Writing a bit to learn about how to commit.
